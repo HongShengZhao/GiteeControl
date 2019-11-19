@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiteeControl", "GiteeControl.csproj", "{E4058363-04D6-45FB-8818-1042A25A5EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4058363-04D6-45FB-8818-1042A25A5EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4058363-04D6-45FB-8818-1042A25A5EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4058363-04D6-45FB-8818-1042A25A5EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4058363-04D6-45FB-8818-1042A25A5EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF066B7-BAF0-411D-844C-E0CC2F198072}
+	EndGlobalSection
+EndGlobal

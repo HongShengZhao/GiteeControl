@@ -1,0 +1,6 @@
+E:\VS Development\vs 2019\Repos\GiteeControl\bin\Debug\GiteeControl.exe.config
+E:\VS Development\vs 2019\Repos\GiteeControl\bin\Debug\GiteeControl.exe
+E:\VS Development\vs 2019\Repos\GiteeControl\bin\Debug\GiteeControl.pdb
+E:\VS Development\vs 2019\Repos\GiteeControl\obj\Debug\GiteeControl.csprojAssemblyReference.cache
+E:\VS Development\vs 2019\Repos\GiteeControl\obj\Debug\GiteeControl.exe
+E:\VS Development\vs 2019\Repos\GiteeControl\obj\Debug\GiteeControl.pdb
